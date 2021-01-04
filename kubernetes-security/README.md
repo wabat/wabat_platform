@@ -29,3 +29,4 @@ https://www.cncf.io/blog/2018/08/01/demystifying-rbac-in-kubernetes/
 примеры 
 
 https://github.com/terickson/kubernetes-rbac-policies
+_________________
